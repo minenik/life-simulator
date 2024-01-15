@@ -88,7 +88,7 @@ class SimulationApp:
 
     def run_simulation(self):
         if not self.running:
-            return
+            return :
 
         new_population = []
 
